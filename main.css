@@ -5,6 +5,9 @@
 h1{
 	font:bold 20px Tahoma;
 }
+li{
+	list-style:none;
+}
 header, section, footer, nav, article{
 	display:flex;
 	justify-content:center;
@@ -40,7 +43,6 @@ body{
 	padding:10px auto;
 }
 #nav_menu ul li{
-	list-style:none;
 	text-align:center;
 	border:1px solid chartreuse;
 	border-radius:25px;
