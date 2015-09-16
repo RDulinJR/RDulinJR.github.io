@@ -17,8 +17,7 @@ body{
 	background:gray;
 }
 #main_piece{
-	border:1px solid black;
-	margin:20px auto;
+	margin:20px 10%;
 	/*text-align:left;*/
 }
 #big_header{
@@ -91,6 +90,6 @@ header{
 	width: 100px;
 	height: 100px;
 	border-radius: 100px;
-	background: url("Rj in suit.jpg") no-repeat;
+	background: url("../img/Rj in suit.jpg") no-repeat;
 	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
